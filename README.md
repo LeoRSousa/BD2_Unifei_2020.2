@@ -1,0 +1,1 @@
+Repositório destinado para publicação de trabalhos relativos a disciplina de Banco de Dados 2(UNIFEI - 2º Semestre de 2020)
