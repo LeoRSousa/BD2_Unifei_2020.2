@@ -1,3 +1,6 @@
+#Exemplo de aplicação Python simples que mostra um dos possíveis ataques de SQL Injection.
+#A aplicação estabeleceu conexão com um BD que continha uma tabela chamada "clientes", onde existia um dado de um cliente. A tupla do cliente foi indevidamente alterada, através do injeção de código.
+
 import psycopg2 #Documetação: https://www.psycopg.org/docs/usage.html
 
 conexao = psycopg2.connect(
